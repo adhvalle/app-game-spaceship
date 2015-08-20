@@ -1,4 +1,4 @@
-# Juego en HTML5 #
+# Juego en HTML5
 
 ##Tecnologías
 
