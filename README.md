@@ -1,4 +1,12 @@
-spaceship
-=========
+# Juego en HTML5 
 
-html5 game
+Tecnologías
+===========
+
+* HTML5
+* LimeJS
+
+Descripción
+===========
+
+* Un juego spaceship desarrollado con HTML5 y el framework javascript LimeJS, un framework desarrollado especificamente para facilitar el desarrollo de juegos en javascript.
